@@ -1,0 +1,2 @@
+{"ok":true,"result":[{"update_id":464427873,
+"message":{"message_id":3,"from":{"id":166754739,"is_bot":false,"first_name":"Ily(i)a Tsukanov","username":"ilyousha","language_code":"en"},"chat":{"id":166754739,"first_name":"Ily(i)a Tsukanov","username":"ilyousha","type":"private"},"date":1608996278,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}]}
